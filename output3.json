@@ -1,0 +1,47 @@
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+[
+    {
+        "reservations": [],
+        "room": "lab_6"
+    },
+    {
+        "reservations": [],
+        "room": "lab_7"
+    },
+    {
+        "reservations": [],
+        "room": "lab_1"
+    }
+]
+{
+    "venue": "K17",
+    "rooms": [
+        "lab_6",
+        "lab_1"
+    ],
+    "status": "success"
+}
+[
+    {
+        "reservations": [{
+            "start": "2019-03-25",
+            "end": "2019-03-26",
+            "id": "comp2521"
+        }],
+        "room": "lab_6"
+    },
+    {
+        "reservations": [],
+        "room": "lab_7"
+    },
+    {
+        "reservations": [{
+            "start": "2019-03-25",
+            "end": "2019-03-26",
+            "id": "comp2521"
+        }],
+        "room": "lab_1"
+    }
+]
